@@ -1,22 +1,33 @@
-# AI Resume Screener
+# AI Resume Screener 🚀
 
 An AI-powered web application that analyzes resumes against job descriptions.
 
-## Features
+## 🔗 Live App
+https://resume-screener-ratchana.streamlit.app/
+
+---
+
+## ✨ Features
 - Resume parsing from PDF
 - TF-IDF based similarity scoring
 - Skill extraction and comparison
 - Missing skill identification
 - Interactive UI using Streamlit
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 - Python
 - NLP (TF-IDF)
 - Scikit-learn
 - Streamlit
 
-## Use Case
+---
+
+## 📌 Use Case
 Helps candidates improve resumes by identifying skill gaps.
+
+---
 
 ## 📸 Screenshots
 
